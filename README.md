@@ -1,2 +1,2 @@
-# Salary-Predictor
-This is a Salary Predictor for the software developers around the globe.
+# Salary Predictor
+ This is a Salary Predictor for the Software developers around the globe using streamlit.
